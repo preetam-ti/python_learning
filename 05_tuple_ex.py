@@ -1,5 +1,5 @@
 # Tuple unpacking
-Tuple1 = ("Geeks", "For", "Geeks")
+Tuple1 = ("Python", "For", "team")
  
 # This line unpack
 # values of Tuple1
@@ -11,12 +11,12 @@ print(c)
 
 # Concatenation of tuples
 Tuple1 = (0, 1, 2, 3)
-Tuple2 = ('Geeks', 'For', 'Geeks')
+Tuple2 = ("Python", "For", "team")
  
 Tuple3 = Tuple1 + Tuple2
 
 ##Slicing
-# Tuple1 = tuple('GEEKSFORGEEKS')
+Tuple1 = tuple('pythonlearning')
  
 # Removing First element
 print("Removal of First Element: ")

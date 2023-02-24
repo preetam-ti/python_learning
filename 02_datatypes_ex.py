@@ -22,7 +22,7 @@ print(a,"concatenated with",b)
 print(a+" concated with "+b)
 
 # characters of String 
-String1 = "GeeksForGeeks"
+String1 = "teamtraining"
 print("Initial String: ") 
 print(String1) 
     
@@ -54,7 +54,7 @@ print(friends is abroad)  # False
 
 ###
 # int to bytes
-str = "Welcome to Geeksforgeeks"
+str = "Welcome to Python Learning"
  
 arr = bytes(str, 'utf-8')
  

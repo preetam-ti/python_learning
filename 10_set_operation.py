@@ -48,7 +48,7 @@ x[1] = "strawberry"
 #If by mistake we want to change the frozenset object, then it throws a TypeError
 
 # creating a dictionary
-Student = {"name": "Ankit", "age": 21, "sex": "Male",
+Student = {"name": "Ankit", "age": 21, "gender": "Male",
            "college": "MNNIT Allahabad", "address": "Allahabad"}
  
 # making keys of dictionary as frozenset

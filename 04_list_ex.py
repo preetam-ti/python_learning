@@ -1,8 +1,7 @@
 
 #
 # Creating a Multi-Dimensional List
-# (By Nesting a list inside a List)
-List = [['Geeks', 'For'], ['Geeks']]
+List = [['python', 'For'], ['devops']]
 print(List[0][1])
 print(List[1][0])
 
@@ -14,12 +13,12 @@ print(List[-1])
 print(List[-3])
 
 #adding element
-List.insert(0, 'Geeks')
+List.insert(0, 'devops')
 #adding list:
-List.extend([8, 'Geeks', 'Always'])
+List.extend([8, 'python', 'Always'])
 
 # Reversing a list
-mylist = [1, 2, 3, 4, 5, 'Geek', 'Python']
+mylist = [1, 2, 3, 4, 5, 'learn', 'Python']
 mylist.reverse()
 print(mylist)
 

@@ -5,7 +5,7 @@ s = {"Bob", "Rolf", "Anne"}
 # Access individual items in lists and tuples using the index.
 print(l[0])
 print(t[0])
-# print(s[0])  # This gives an error because sets are unordered, so accessing element 0 of something without order doesn't make sense.
+# print(s[0]) # This gives an error because sets are unordered, so accessing element 0 of something without order doesn't make sense.
 
 # Modify individual items in lists using the index.
 l[0] = "Smith"
