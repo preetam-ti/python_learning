@@ -77,6 +77,12 @@ for person in people:
     continue
   print(f'Current Person: {person}')
 
+# Continue
+for person in people:
+  if person == 'Sam':
+    pass
+  print(f'Current Person: {person}')
+
 # range
 for i in range(len(people)):
   print(people[i])
@@ -90,3 +96,20 @@ count = 0
 while count < 10:
   print(f'Count: {count}')
   count += 1
+
+##
+# combining else with while
+count = 0
+while (count < 3):
+    count = count + 1
+    print("Hello Geek")
+else:
+    print("In Else Block")
+
+# combining else with for
+ 
+list = ["geeks", "for", "geeks"]
+for index in range(len(list)):
+    print(list[index])
+else:
+    print("Inside Else Block")
