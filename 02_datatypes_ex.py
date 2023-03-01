@@ -9,6 +9,15 @@ print(f'type of a is {type(a)}, type of b is {type(b)} and type of c is {type(c)
 
 print(f'sum of a and b is {a+b}')
 
+#Complex ex
+#When both the parameters are provided to the complex() method:
+#complex is useful in electronics calculation
+real = 10
+imaginary = 7
+complex_number = complex(real, imaginary)
+print("Complex number formed: ", complex_number)
+#Output : Complex number formed:  (10+7j)
+
 #STRING DATA TYPE:
 a = "string in a double quote"
 b= 'string in a single quote'
