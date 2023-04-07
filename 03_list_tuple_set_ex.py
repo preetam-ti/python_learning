@@ -93,13 +93,13 @@ fruits.insert(2, 'Strawberries')
 # Change value
 fruits[0] = 'Blueberries'
 
-# Remove with pop
+# Remove with pop using index
 fruits.pop(2)
 
 # Reverse list
 fruits.reverse()
 
-# Sort list
+# Sort list   :Python uses an algorithm called Timsort: Timsort is a hybrid sorting algorithm, derived from merge sort and insertion sort
 fruits.sort()
 
 # Reverse sort

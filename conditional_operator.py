@@ -27,6 +27,7 @@ else:
 if x > 2:
   if x <= 10:
     print(f'{x} is greater than 2 and less than or equal to 10')
+  print("yes")
     
 
 # Logical operators (and, or, not) - Used to combine conditional statements

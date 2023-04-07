@@ -47,4 +47,5 @@ print(tail)  # 5
 
 # -- Packing and unpacking --
 
-# This isn't actually the end of the story, as there are also ways to pack and unpack collections using * and **, but that's a bit more advanced and you'll learn about it later on!
+# This isn't actually the end of the story, as there are also ways to pack and unpack collections 
+# using * and **, but that's a bit more advanced and you'll learn about it later on!

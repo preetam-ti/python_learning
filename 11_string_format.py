@@ -17,7 +17,7 @@ print('We all are {}.'.format('equal'))
 print('{2} {1} {0}'.format('directions','the', 'Read'))
 
 #Using assigned keywords:
-print('a: {a}, b: {b}, c: {c}'.format(a = 1, b = 'Two',c = 12.3))
+print('a: {a}, b: {b}, c: {c}'.format(a = 1,c = 12.3, b = 'Two'))
 
 #Method 3: Formatted String using F-strings
 name = 'Ele'

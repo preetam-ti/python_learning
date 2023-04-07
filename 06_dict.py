@@ -30,7 +30,7 @@ for student, attendance in student_attendance.items():
 # -- Using the `in` keyword --
 
 if "Bob" in student_attendance:
-    print(f"Bob: {student_attendance[student]}")
+    print(f"Bob: {student_attendance['Bob']}")
 else:
     print("Bob isn't a student in this class!")
 
